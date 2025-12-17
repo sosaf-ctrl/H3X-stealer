@@ -1,5 +1,0 @@
-C:\Users\sosaf\Pictures\Banner\H3X Project.exe
-C:\Users\sosaf\Pictures\Banner\H3X Project.dll
-C:\Users\sosaf\Pictures\Banner\H3X Project.deps.json
-C:\Users\sosaf\Pictures\Banner\H3X Project.runtimeconfig.json
-C:\Users\sosaf\Pictures\Banner\H3X Project.pdb
